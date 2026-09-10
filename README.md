@@ -29,4 +29,4 @@ Contributions are welcome – please open an issue or a pull request.
 
 ## License
 
-I am releasing this software under the license in order you have to release any changes as open source again. So further releases must be in addition free of any charge. No paywalls or payments for this software or final product are allowed.
+I am releasing this software under the GNU Affero General Public License, version 3 (AGPL-3.0); see [LICENSE](LICENSE). My intent is that further releases and changes remain open source in accordance with this license. I also ask that further releases of this software or final product remain free of charge, without paywalls or payments. This is my wish rather than an additional license restriction: AGPL-3.0 permits charging for the software.
