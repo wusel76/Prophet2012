@@ -1,5 +1,7 @@
 I decided to make the Prophet 2012 editor and librarian for the Sequential Circuits SCI Samplers 2000 and 2002 open source.
 
+Read the [Prophet2012 user manual](docs/manual/README.md) for instructions and screenshots.
+
 Currently there are no build projects or scripts present. I and Bertil (RIP buddy!) have written this editor quite a while ago, and a lot of the toolchain has been lost. 
 
 Main current issue is that there is no new Apple Silicon build available. 
