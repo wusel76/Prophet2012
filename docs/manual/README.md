@@ -2,7 +2,7 @@
 
 **Version 1.4 · 03-23-2018**
 
-Converted from the [original Word manual](../../Docs/Prophet2012_Manual.doc). The original wording, section numbering, and screenshots are retained; navigation and formatting have been adapted for Markdown.
+Converted from the [original Word manual](../Prophet2012_Manual.doc). The original wording, section numbering, and screenshots are retained; navigation and formatting have been adapted for Markdown.
 
 ## Contents
 
